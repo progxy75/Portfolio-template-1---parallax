@@ -6,8 +6,7 @@ I used the animate function, build on react framework, icons-and-font are build 
 
 Hover color change function is used, Type-writing function is used but not by the traditional way of 'Type-writing method' of javascript, I used toRotate and Period function to do that.
 
-### Setup ways.
-
+### Setup ways
 Step 1: clone the whole repositories using 'gitclone' button and paste it into your IDE, I use Vs-code, if the same > go-to the terminal> paste there and enter.
 
 Step 2: After it download the whole repositories, use the command : " npm install" in the same terminal.
