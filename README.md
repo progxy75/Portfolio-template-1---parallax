@@ -19,4 +19,4 @@ Then either you open on you localhost:3000 or on a server: 192.168.1.5:3000.![Un
 ![Untitled](https://user-images.githubusercontent.com/83406066/231386476-4e99871d-2da5-4895-af2f-47b23973503e.png)
 ![Untitled2](https://user-images.githubusercontent.com/83406066/231386482-69b15c84-b682-4ca7-a83d-bcd7d2dc8d61.png)
 ![Untitled3](https://user-images.githubusercontent.com/83406066/231386503-9621222b-f868-4492-b232-6822b8d1b069.png)
-
+![Untitled 4](https://user-images.githubusercontent.com/83406066/231386882-2aa1ba34-7262-4908-92e3-61ffd469ff81.png)
